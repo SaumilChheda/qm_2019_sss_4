@@ -4,7 +4,6 @@ dependencies:
     # Base depends
   - python
   - pip
-  - qm_project_sss
     # Dependecies
 
     # Pip-only installs
