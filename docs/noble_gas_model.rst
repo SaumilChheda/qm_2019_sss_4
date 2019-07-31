@@ -4,8 +4,7 @@ Noble Gas Model
 This is the noble gas model.
 
 .. autosummary::
-        
-        qm_project_sss.NobleGasModel
+        :toctree: autosummary
 	
-.. autoclass:: qm_project_sss.NobleGasModel
-	:members:
+	.. autoclass:: qm_project_sss.NobleGasModel
+		:members:
