@@ -4,7 +4,7 @@ dependencies:
     # Base depends
   - python
   - pip
-  - CONDA_PREFIX
+  - qm_project_sss
     # Dependecies
 
     # Pip-only installs
